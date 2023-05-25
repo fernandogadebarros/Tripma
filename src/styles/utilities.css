@@ -1,0 +1,7 @@
+.box {
+  @apply max-w-screen-xl mx-auto px-4 w-full;
+}
+
+.between-center {
+  @apply flex justify-between items-center;
+}

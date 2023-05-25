@@ -1,0 +1,13 @@
+@layer components {
+  .btn-small {
+    @apply py-3 px-6 rounded;
+  }
+
+  .btn-primary {
+    @apply bg-primary-200 text-white duration-200;
+  }
+
+  .btn-primary:hover {
+    @apply bg-primary-300;
+  }
+}
